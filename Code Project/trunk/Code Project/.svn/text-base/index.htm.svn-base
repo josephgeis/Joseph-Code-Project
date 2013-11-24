@@ -38,9 +38,9 @@
 <body>
 <div id="navbar"> 
   <ul> 
-	<li><a href="http://jcoder.tk/jCode/index.htm">Home</a></li> 
-	<li><a href="http://jcoder.tk/jCode/HTML-Info">What is HTML?</a></li> 
-	<li><a href="http://github.com/">GitHub</a></li> 
+	<li><a href="http://192.168.1.64/jCode/index.htm">Home</a></li> 
+	<li><a href="http://192.168.1.64/jCode/HTML-Info">What is HTML?</a></li> 
+	<li><a href="#">LinkHere</a></li> 
 	<li><a href="#">LinkHere</a></li> 
 	<li><a href="#">LinkHere</a></li> 
     <li><a href='#'>LinkHere</a></li>
@@ -50,13 +50,9 @@
 </body>
 <body>
 <h2>About Joseph's Code Project:</h2>
-<p>	Joseph's Code Project is a project that I am hosting to show the fun hobby of coding websites and applications.
-You can help out in this project by sending in code (using GitHub) to  me and I will compile it for you.
+<p>	Joseph's Code Project is a project for young coders to learn how to use HTML and PHP.
+You can help contribute to this project by opening this website source code in a code editor such as Adobe Dreamweaver or PSPad Editor.
 </p>
-
-Try my Navigation Bar on your site!
-
-<script src="https://gist.github.com/jgeis/7623371.js"></script>
 </body>
 
 </html>

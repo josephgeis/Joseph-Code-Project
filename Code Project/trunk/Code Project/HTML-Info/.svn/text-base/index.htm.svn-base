@@ -40,10 +40,10 @@
 <body> 
 <div id="navbar"> 
   <ul> 
-	<li><a href="http://jcoder.tk/">Home</a></li> 
-	<li><a href="http://jcoder.tk/HTML-Info">What is HTML?</a></li> 
-	<li><a href="http://github.com/">GitHub</a></li> 
-	<li><a href="#">LinkHere</a></li> 
+	<li><a href="http://192.168.1.64/jCode/index.htm">Home</a></li> 
+	<li><a href="http://192.168.1.64/jCode/HTML-Info">What is HTML?</a></li> 
+	<li><a href="#">What is PHP?</a></li> 
+	<li><a href="#">Contributions</a></li> 
 	<li><a href="#">LinkHere</a></li> 
     <li><a href="#">LinkHere</a></li>
   </ul> 
@@ -52,8 +52,12 @@
 
 <h2>What is HTML?</h2>
 <p>	HTML is a type of code used to make basic webpages such as this one. Some of the tags are:
-</p>
-<script src="https://gist.github.com/jgeis/68f0a46b19b352b884b5.js"></script>
+</p><ul>
+	<li> strong - <strong> bold </strong></li>
+    <li> li - list </li>
+    <li> !DOCTYPE html - Document Type</li>
+    <li> image src= image link </li>
+</ul>
 </body>
 </html>
 
